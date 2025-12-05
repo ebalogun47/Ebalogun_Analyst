@@ -1,4 +1,5 @@
-<h1>Hi there 👋, My name is Titilayo Balogun, a Business and Data Analyst who turns complex problems into clear solutions. I specialise in understanding what a business truly needs by capturing requirements, mapping processes, analysing data, and translating insights into actions that improve performance and decision-making. Using tools like JIRA, Confluence, SQL, Power BI, Advanced Excel, and Visio, I help teams streamline workflows, uncover trends, and deliver solutions that make a measurable impact. If you’re looking for clarity, structure, and insight-driven problem-solving, you’re in the right place.
+<h1>Hi there 👋 
+    My name is Titilayo Balogun, a Business and Data Analyst who turns complex problems into clear solutions. I specialise in understanding what a business truly needs by capturing requirements, mapping processes, analysing data, and translating insights into actions that improve performance and decision-making. Using tools like JIRA, Confluence, SQL, Power BI, Advanced Excel, and Visio, I help teams streamline workflows, uncover trends, and deliver solutions that make a measurable impact. If you’re looking for clarity, structure, and insight-driven problem-solving, you’re in the right place.
 
     🔭 I’m currently working on building my business and data analysis skills
     🌱 I’m currently learning everything
